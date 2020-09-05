@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+
+.imagen-uno {
+  width: 50%;
+  display: block;
+  margin: auto;
+  /* position: relative;
+  top: -220px; */
+
+}
+.imagen-dos {
+  width: 50%;
+  display: block;
+  margin: auto;
+  /* position: relative;
+  top: -300px; */
+}
+
+.imagen-tres {
+  width: 50%;
+  display: block;
+  margin: auto;
+
+}
+ 
+
+
+  
+
